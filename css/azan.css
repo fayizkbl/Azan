@@ -1,0 +1,113 @@
+.main{
+    width: 707px;
+    height:929px;
+    background-color:black;
+    margin: auto;
+    border-radius: 41px;
+}
+.time{
+    color: #fff;
+    padding-left: 149px;
+    padding-top:40px;
+    font-size: 76px;
+    font-family:Segoe UI, Open Sans, Arial, Verdana;
+    font-weight: bold;
+}
+.img{
+    width: 100px;
+    height:79PX;
+    border-radius: 50%;
+    margin: 1px 5px;
+
+}
+.head{
+    width:731px;
+    height:140px;
+    
+}
+.azantime{
+    color: #fff;
+    margin: 10px 185px;
+    width: 327px;
+    display: inline-flex;
+    font-family: fantasy;
+    font-size: large;
+}
+.iqama{
+    color: white;
+    width: 96px;
+}
+.prg{
+    padding-right:170px;
+}
+
+.subah{
+    color: #fff;
+    padding-left: 10px;
+    padding-right:62px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.vakth{
+    width: 699px;
+    display: inline-flex;
+    height: 72px;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.option{
+    padding:10px 60px;
+    margin:5px;
+    
+}
+.containar{
+    
+    width: 700px;
+}
+.arabic{
+    color: #fff;
+    padding-left:61px;
+    font-size: 29px;
+    font-weight: bold;
+}
+
+.hijra{
+    width: 500px;
+    height:136px;
+    padding-left: 110px;
+    margin-top: 43px;
+
+
+}
+
+.asr{
+    padding:10px 60px;
+   margin-left:31px;
+
+}
+.magrib{
+    padding: 10px 60px;
+    margin-right:19px ;
+}
+.magrib2{
+    padding: 10px 60px;
+    margin-right: 19px;
+}
+.isha{
+    padding: 10px 60px;
+    margin-left: 28px;
+}
+.date{
+    float: left;
+    font-family: cursive;
+    font-size: medium;
+    padding-left: 30px;
+    color: #fff;
+   padding-right: 29px;
+}
+.aboutdate{
+    padding: 16px 87px;
+    font-size: 20pX;
+    margin-bottom:20px;
+    border-radius: 15px;
+}
